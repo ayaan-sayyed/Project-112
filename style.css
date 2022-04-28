@@ -1,0 +1,59 @@
+body {
+  color: red;
+  background: rgb(253, 253, 21);
+}
+
+span {
+  font-size: 30px;
+}
+
+#camera,
+#result {
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px;
+}
+
+#result_emotion_name,
+#result_emotion_name2 {
+  color: black;
+}
+
+.emotion_name {
+  font-size: 40px;
+}
+
+.emoji {
+  font-size: 48px;
+}
+
+#heading_tag {
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+label {
+  font-size: 14px;
+  color: red;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
+#Hello{
+font-weight: bold;
+font-style: italic;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-variant: small-caps;
+font-size: 20px;
+}
+
+#Bye{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: bolder;
+font-variant: small-caps;
+font-style: italic;
+font-size: 20px;
+}
